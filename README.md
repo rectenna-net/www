@@ -1,12 +1,39 @@
 # [www.rectenna.net](https://www.rectenna.net)
 
-Energy Harvesting
+
+Rectenna, czyli urządzenie służące do przetwarzania fal radiowych na energię elektryczną, jest produkowane przez różne firmy na całym świecie. Oto kilka przykładów firm, które sprzedają rectenny:
+
+1. Powercast – amerykańska firma specjalizująca się w produkcji bezprzewodowych systemów przesyłania energii, w tym rectenn.
+[Wireless Power Products - Powercastco.com](https://www.powercastco.com/)
+
+
+2. WiTricity – firma z siedzibą w USA, zajmująca się projektowaniem i produkcją systemów bezprzewodowego przesyłania energii, w tym rectenn.
+
+3. Ossia – amerykańska firma, która opracowała technologię bezprzewodowego przesyłania energii, opartą na rectennach.
+
+4. Energous – firma z siedzibą w USA, specjalizująca się w projektowaniu i produkcji bezprzewodowych systemów przesyłania energii, w tym rectenn.
+
+5. Metaboards – brytyjska firma, która opracowała technologię bezprzewodowego przesyłania energii opartą na rectennach, wykorzystującą sztuczną inteligencję do optymalizacji przesyłu energii.
+
+6. Wibotic – amerykańska firma, która produkuje rectenny do bezprzewodowego ładowania dronów i innych urządzeń mobilnych.
+
+
+7. Humavox – izraelska firma, producent bezprzewodowych systemów ładowania, w tym rectenn, zasieg kilka centymetrów
+[Humavox - Wireless Charging Solution](http://www.humavox.com/)
+
+
+
+
+
+
+## Energy Harvesting
+
 The process by which energy is derived from external sources (e.g., solar power, thermal energy, wind energy, salinity gradients, and kinetic energy), captured, and stored for small, wireless autonomous devices.
 
 Energy harvesting is an environmentally friendly, more efficient form of energy management that is often used to extend battery life and product reliability. It uses ambient energy, including light, heat, vibration, force, rotation, etc., available from the environment to power applications. If a product needs to operate without battery changes and it cannot be recharged using AC mains and primary batteries won't power the product for its lifetime, then energy harvesting is a good candidate for the design. Renesas' energy harvesting solutions include microcontrollers and other devices that are configured for energy harvesting applications.
 
 
-[Energy Harvesting with RX111 MCUs | Renesas](https://www.renesas.com/us/en/application/power-and-energy/energy-harvesting/about-energy-harvesting)
+[Energy Harvesting with RX111 MCUs - Renesas](https://www.renesas.com/us/en/application/power-and-energy/energy-harvesting/about-energy-harvesting)
 
 Energy Harvesting in the embedded space is evolving rapidly to meet the requirement for low power consumption in Internet of Things (IoT) devices. Harvesting energy from the environment enables more efficient energy management, while allowing your battery to operate for years without a replacement. Energy harvesting is environmentally friendly, while also extending battery life and product reliability. But designing with energy harvesting adds new design challenges. If an off-the-shelf primary cell battery meets your product requirements then you should use it, as it will be less expensive and easier to design. But if your product must operate for long periods of time without battery changes, then energy harvesting is an excellent option. Renesas' RX111 32-bit microcontroller (MCU) is ideally configured for energy harvesting applications and our energy harvesting solutions can meet your design requirements.
 
