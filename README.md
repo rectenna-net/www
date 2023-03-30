@@ -1,5 +1,14 @@
 # [www.rectenna.net](https://www.rectenna.net)
 
+[Rectenna - Wikipedia](https://en.wikipedia.org/wiki/Rectenna)
+
+> A **rectenna** (**_rect_ifying ant_enna_**) is a special type of receiving [antenna](https://en.wikipedia.org/wiki/Antenna_(electronics) "Antenna (electronics)") that is used for converting [electromagnetic](https://en.wikipedia.org/wiki/Electromagnetic "Electromagnetic") energy into [direct current](https://en.wikipedia.org/wiki/Direct_current "Direct current") (DC) [electricity](https://en.wikipedia.org/wiki/Electricity "Electricity"). They are used in [wireless power transmission](https://en.wikipedia.org/wiki/Wireless_power_transmission "Wireless power transmission") systems that transmit power by [radio waves](https://en.wikipedia.org/wiki/Radio_waves "Radio waves"). A simple rectenna element consists of a [dipole antenna](https://en.wikipedia.org/wiki/Dipole_antenna "Dipole antenna") with a [diode](https://en.wikipedia.org/wiki/Diode "Diode") connected across the dipole elements. The diode [rectifies](https://en.wikipedia.org/wiki/Rectifier "Rectifier") the [AC](https://en.wikipedia.org/wiki/Alternating_current "Alternating current") induced in the antenna by the microwaves, to produce DC power, which powers a load connected across the diode. [Schottky diodes](https://en.wikipedia.org/wiki/Schottky_diode "Schottky diode") are usually used because they have the lowest voltage drop and highest speed and therefore have the lowest power losses due to conduction and switching.[\[1\]](https://en.wikipedia.org/wiki/Rectenna#cite_note-1) Large rectennas consist of an array of many power receiving elements such as dipole antennas.
+
+
+## docs
+
++ [Rectenna - Wikipedia](https://en.wikipedia.org/wiki/Rectenna)
+
 
 Rectenna, czyli urządzenie służące do przetwarzania fal radiowych na energię elektryczną, jest produkowane przez różne firmy na całym świecie. Oto kilka przykładów firm, które sprzedają rectenny:
 
