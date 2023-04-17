@@ -50,6 +50,8 @@
 > This new 6 GHz spectrum will drive additional innovation and use models. It’s really great to see that the European Radio Regulation environment has made so much progress. An important note is that most non-EU countries are also part of the European regulation organization, known as the CEPT (European Conference of Postal and Telecommunications Administrations). This will guarantee a uniform or “harmonized” European spectrum regulation.
 
 
+[Design and experiments of a high-conversion-efficiency 5.8-GHz rectenna | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/document/739282)
+
 
 
 [Solutions - Wi-Fi 6E: The Next Great Chapter in Wi-Fi White Paper - Cisco](https://www.cisco.com/c/en/us/solutions/collateral/enterprise-networks/802-11ax-solution/nb-06-wi-fi-6e-wp-cte-en.html)
