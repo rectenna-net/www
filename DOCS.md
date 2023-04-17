@@ -1,6 +1,21 @@
 # DOCS
 
 
+
+[How far can I Wirelessly Transfer Power? (Experiment) Better than at MIT? - YouTube](https://www.youtube.com/watch?v=15HmW1K8MZY)
+
+[Goodbye wires! | MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2007/wireless-0607)
+
+> MIT team experimentally demonstrates wireless power transfer, potentially useful for powering laptops, cell phones without cords
+> 
+> Franklin Hadley, Institute for Soldier Nanotechnologies
+> 
+> Publication Date:
+> 
+> June 7, 2007
+
+
+
 [Home - OpenPOWER Foundation](https://openpowerfoundation.org/)
 
 > # OpenPOWER Foundation
