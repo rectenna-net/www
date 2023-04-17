@@ -42,9 +42,20 @@ The process by which energy is derived from external sources (e.g., solar power,
 Energy harvesting is an environmentally friendly, more efficient form of energy management that is often used to extend battery life and product reliability. It uses ambient energy, including light, heat, vibration, force, rotation, etc., available from the environment to power applications. If a product needs to operate without battery changes and it cannot be recharged using AC mains and primary batteries won't power the product for its lifetime, then energy harvesting is a good candidate for the design. Renesas' energy harvesting solutions include microcontrollers and other devices that are configured for energy harvesting applications.
 
 
+[Energy Harvesting in IoT - Simon van der Jagt (NOWI Energy) - The Things Conference 2019 - YouTube](https://www.youtube.com/watch?v=XRwx3-FWIwo)
+Power remains a bottleneck in large scale IoT deployment. In applications where battery life is insufficient replacing batteries is costly and often impossible. With new developments in energy harvesting technology NOWI is solving this problem and changing IoT devices form Plug&Play to Plug&Forget.
+
+Simon van der Jagt is the CEO of NOWI. Nowi is developing an Energy harvesting PMIC that enables Internet of Things devices to live forever. Instead of needing to continuously bring energy to your device in the form of cables and battery changes, Nowi enables companies to use the energy that is already readily available around the device. This can be light, heat, movement or even radio waves. There is energy all around us that can be used to power IoT devices.
+
+
+
+
+
 [Energy Harvesting with RX111 MCUs - Renesas](https://www.renesas.com/us/en/application/power-and-energy/energy-harvesting/about-energy-harvesting)
 
 Energy Harvesting in the embedded space is evolving rapidly to meet the requirement for low power consumption in Internet of Things (IoT) devices. Harvesting energy from the environment enables more efficient energy management, while allowing your battery to operate for years without a replacement. Energy harvesting is environmentally friendly, while also extending battery life and product reliability. But designing with energy harvesting adds new design challenges. If an off-the-shelf primary cell battery meets your product requirements then you should use it, as it will be less expensive and easier to design. But if your product must operate for long periods of time without battery changes, then energy harvesting is an excellent option. Renesas' RX111 32-bit microcontroller (MCU) is ideally configured for energy harvesting applications and our energy harvesting solutions can meet your design requirements.
+
+
 
 ## What is Energy Harvesting?
 
@@ -53,6 +64,8 @@ Energy Harvesting in the embedded space is evolving rapidly to meet the requirem
 - In portable devices, harvester scale is small, with collection fluxes measured in μW to mW
     - Low power design techniques are paramount
     - Selection of processor, power management IC, battery, and harvester are critical
+
+
 
 ## Why is Energy Harvesting Used?
 
@@ -67,7 +80,15 @@ Energy Harvesting in the embedded space is evolving rapidly to meet the requirem
 - Increase product reliability
 - Application is a deeply embedded or implanted device that requires costly or dangerous battery replacement procedures
 
-Image
+
+## Wireless Sensors
+
+[Xsensor: Wireless sensors with contactless battery for power generation equipment - YouTube](https://www.youtube.com/watch?v=jFRJ06DbS8E)
+The objective of Xsensor includes the delivery of a Condition Monitoring and Structural Health Monitoring system that consists of a line of wireless sensors and a universal unit used to connect any standard probe and make it a wireless node.
+[Monitorowanie i diagnostyka maszyn | AMC VIBRO](https://amcvibro.pl/)
++ Tomasz Barszcz Xsensor
++ Tomasz Potaczala
+
 
 ![Power Sources][img1]
 
